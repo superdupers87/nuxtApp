@@ -1,0 +1,22 @@
+{
+  "name": "AppApricot",
+  "version": "1.0.0",
+  "description": "My riveting Nuxt.js project",
+  "author": "Johanna Malm",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0",
+    "bootstrap-vue": "^2.0.0",
+    "bootstrap": "^4.1.3"
+  },
+  "devDependencies": {
+    "node-sass": "^4.13.0",
+    "sass-loader": "^8.0.0"
+  }
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="585px" viewBox="0 0 1024 585" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>Path</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#5525FF" offset="0%"></stop>
+            <stop stop-color="#0A0034" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(0.000000, -177.000000)" fill="url(#linearGradient-1)">
+            <path d="M-9.41985708,610.342448 L232.374041,299.280795 L232.374041,299.280795 C245.251668,282.714058 263.014303,270.617873 283.147026,264.704877 L567.669424,181.140433 L567.669424,181.140433 C583.442374,176.507906 600.114139,175.835363 616.208984,179.182336 L843.11183,226.367484 L843.11183,226.367484 C868.093352,231.562469 890.14411,246.110434 904.749471,267.032856 L1016.30632,426.839886 L1016.30632,426.839886 C1024.021,437.891292 1033.89006,447.269169 1045.32059,454.410103 L1536.89618,761.509625 L-30.4670561,761.509625" id="Path"></path>
+        </g>
+    </g>
+</svg>
