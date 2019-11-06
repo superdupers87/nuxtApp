@@ -6,10 +6,10 @@
 
 <style scope>
 i.fas {
-  color: var(--color-turqouise);
+  color: #ab5ea5;
   font-size: larger;
   padding: 0.5rem 0.5rem;
-  background: var(--color-pink);
+  background: #ffdfa6;
   border-radius: 100%;
 }
 
