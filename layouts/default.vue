@@ -33,7 +33,7 @@ html {
 }
 
 body {
-  background: var(--main-bg-color);
+  background: #ffdead;
   font-family: var(--font-face);
 }
 

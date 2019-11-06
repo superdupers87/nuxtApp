@@ -4,13 +4,9 @@
       <div>
         <h1 class="title">AppApricot</h1>
         <h2 class="subtitle">My riveting Nuxt.js project</h2>
-        <div class="links">
-          <!-- <a href="https://nuxtjs.org/" target="_blank" class="button--green">Documentation</a>
-          <a href="https://github.com/nuxt/nuxt.js" target="_blank" class="button--grey">GitHub</a>-->
-        </div>
+        <div class="links"></div>
       </div>
     </div>
-    <i class="fab fa-facebook"></i>
     <product-image />
   </div>
 </template>
@@ -20,6 +16,8 @@
   background-image: url("../assets/mt-2.svg");
   background-size: cover;
   height: 100vh;
+  background-color: navajowhite;
+  background-blend-mode: overlay;
 }
 
 .container {
@@ -35,14 +33,14 @@
   display: block;
   font-weight: 300;
   font-size: 100px;
-  color: var(--color-turqouise);
+  color: #000;
   letter-spacing: 1px;
 }
 
 .subtitle {
   font-weight: 300;
   font-size: 42px;
-  color: var(--color-pink);
+  color: #000;
   word-spacing: 5px;
   padding-bottom: 15px;
 }

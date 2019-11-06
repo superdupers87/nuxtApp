@@ -18,7 +18,7 @@
 </template>
 <style scoped>
 .navbar {
-  background-color: var(--color-darker-blue) !important;
+  background-color: #fec2a7 !important;
 }
 a.nav-link {
   color: #fff !important;
